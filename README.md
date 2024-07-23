@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro and I'm a 17, from Brazil</p>
+<p align="left">My name is Pedro and I'm a 17 years old, from Brazil</p>
 
 ###
 
