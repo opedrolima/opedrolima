@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro Lima and I'm a 18 years old, from Fortaleza, CE, Brazil.</p>
+<p align="left">Hello! My name is Pedro. I am a beginner developer and systems development technician. I am currently studying Systems Analysis and Development at Unifametro</p>
 
 ###
 
